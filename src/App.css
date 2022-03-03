@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.Navbar {
+  text-shadow: 1px 0px 3px rgb(245, 12, 12);
+}
